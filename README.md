@@ -1,0 +1,2 @@
+# EverydayCode
+Everyday coding practice.
