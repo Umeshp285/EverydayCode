@@ -10,7 +10,7 @@ void hollow_pattern(int m , int n) {
         printf(" *");
       }
       else{
-        printf(" ");
+        printf("  ");
       }
     }
     printf("\n");
